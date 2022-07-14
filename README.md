@@ -10,11 +10,11 @@ Lenguajes:
 ---------
 JAVA-JAVA  B
 ---------
-JAVA-JS    maso
+JAVA-JS   (B)
 ---------
 JS-JS      B
 ---------
-JS-JAVA    maso
+JS-JAVA   (B)
 ---------
 GO-GO      B
 ---------
@@ -22,7 +22,7 @@ GO-JAVA    B
 ---------
 JAVA-GO    B
 ---------
-GO-JS      maso
+GO-JS     (B)
 ---------
-JS-GO      M
+JS-GO     (B)
 ---------
